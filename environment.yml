@@ -7,3 +7,4 @@ dependencies:
   - pandas>=2.2
   - jupyter
   - scikit-learn
+  - pre-commit
