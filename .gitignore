@@ -1,0 +1,6 @@
+# Ignore data files
+*.csv
+!data/smoking_data.csv
+# Python cache
+__pycache__/
+*.pyc
